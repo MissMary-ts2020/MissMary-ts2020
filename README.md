@@ -2,7 +2,7 @@
 - 👀 I’m interested in Philosophy and literature
 - 🌱 I’m currently learning Assembly language and C
 - 💞️ I’m looking to collaborate on fighting against discrimination
-- 📫 How to reach me SUES
+- 📫 How to reach me UNSW Sydney - University of New South Wales
 ## 乐乐编程技术很烂
 - 乐乐不会英文
 - 乐乐也不会讲上海话
