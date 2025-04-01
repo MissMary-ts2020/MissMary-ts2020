@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MissMary-ts2020,乐乐
 - 👀 I’m interested in Philosophy and literature
-- 🌱 I’m currently learning Assembly language and C
+- 🌱 I’m currently learning C, C# and R
 - 💞️ I’m looking to collaborate on fighting against discrimination
 - 📫 How to reach me UNSW Sydney - University of New South Wales
 ## 乐乐编程技术很烂
